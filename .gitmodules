@@ -1,0 +1,3 @@
+[submodule "NuxtApp"]
+	path = NuxtApp
+	url = https://github.com/same-js/developer.same-san.com.git
